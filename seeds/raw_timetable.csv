@@ -1,0 +1,450 @@
+admission_no,subject_name,teaching_group
+20001,English Language,11EL2
+20001,English Literature,11EL2
+20001,Mathematics,11M2
+20001,Combined Science,11CS3
+20001,Business,11B4
+20001,Religious Studies,11RS4
+20001,Spanish,11S4
+20001,History,11H3
+20002,English Language,11EL4
+20002,English Literature,11EL4
+20002,Mathematics,11M3
+20002,Combined Science,11CS2
+20002,History,11H3
+20002,Geography,11G4
+20002,Religious Studies,11RS4
+20002,Business,11B1
+20003,English Language,11EL2
+20003,English Literature,11EL2
+20003,Mathematics,11M1
+20003,Combined Science,11CS3
+20003,Computer Science,11CS4
+20003,Religious Studies,11RS2
+20003,Geography,11G1
+20003,Spanish,11S2
+20004,English Language,11EL1
+20004,English Literature,11EL3
+20004,Mathematics,11M2
+20004,Combined Science,11CS3
+20004,Geography,11G3
+20004,Computer Science,11CS2
+20004,Business,11B1
+20004,History,11H3
+20005,English Language,11EL1
+20005,English Literature,11EL3
+20005,Mathematics,11M1
+20005,Combined Science,11CS3
+20005,Spanish,11S1
+20005,Art and Design,11AAD3
+20005,History,11H3
+20005,Religious Studies,11RS2
+20006,English Language,11EL4
+20006,English Literature,11EL3
+20006,Mathematics,11M1
+20006,Combined Science,11CS1
+20006,Geography,11G2
+20006,Religious Studies,11RS1
+20006,Spanish,11S1
+20006,Computer Science,11CS1
+20007,English Language,11EL3
+20007,English Literature,11EL4
+20007,Mathematics,11M1
+20007,Combined Science,11CS3
+20007,Business,11B2
+20007,Computer Science,11CS4
+20007,Religious Studies,11RS4
+20007,Geography,11G1
+20008,English Language,11EL4
+20008,English Literature,11EL3
+20008,Mathematics,11M1
+20008,Combined Science,11CS1
+20008,Business,11B3
+20008,Geography,11G3
+20008,Computer Science,11CS3
+20008,Religious Studies,11RS1
+20009,English Language,11EL3
+20009,English Literature,11EL2
+20009,Mathematics,11M1
+20009,Combined Science,11CS2
+20009,Geography,11G1
+20009,Art and Design,11AAD1
+20009,Religious Studies,11RS1
+20009,Spanish,11S3
+20010,English Language,11EL4
+20010,English Literature,11EL2
+20010,Mathematics,11M4
+20010,Combined Science,11CS4
+20010,Computer Science,11CS2
+20010,Business,11B4
+20010,Geography,11G2
+20010,Spanish,11S2
+20011,English Language,11EL3
+20011,English Literature,11EL2
+20011,Mathematics,11M1
+20011,Combined Science,11CS3
+20011,Computer Science,11CS4
+20011,Spanish,11S3
+20011,Religious Studies,11RS3
+20011,Art and Design,11AAD2
+20012,English Language,11EL1
+20012,English Literature,11EL3
+20012,Mathematics,11M3
+20012,Combined Science,11CS1
+20012,Business,11B2
+20012,Computer Science,11CS4
+20012,Spanish,11S2
+20012,History,11H2
+20013,English Language,11EL3
+20013,English Literature,11EL3
+20013,Mathematics,11M3
+20013,Combined Science,11CS4
+20013,Business,11B4
+20013,Art and Design,11AAD4
+20013,Geography,11G3
+20013,History,11H2
+20014,English Language,11EL4
+20014,English Literature,11EL1
+20014,Mathematics,11M4
+20014,Combined Science,11CS2
+20014,History,11H1
+20014,Business,11B3
+20014,Art and Design,11AAD3
+20014,Religious Studies,11RS3
+20015,English Language,11EL2
+20015,English Literature,11EL3
+20015,Mathematics,11M1
+20015,Combined Science,11CS4
+20015,History,11H2
+20015,Business,11B1
+20015,Spanish,11S2
+20015,Computer Science,11CS4
+20016,English Language,11EL1
+20016,English Literature,11EL2
+20016,Mathematics,11M3
+20016,Combined Science,11CS3
+20016,Geography,11G3
+20016,Computer Science,11CS2
+20016,Religious Studies,11RS4
+20016,Business,11B2
+20017,English Language,11EL4
+20017,English Literature,11EL3
+20017,Mathematics,11M2
+20017,Combined Science,11CS1
+20017,Business,11B2
+20017,Religious Studies,11RS3
+20017,Spanish,11S2
+20017,Art and Design,11AAD2
+20018,English Language,11EL3
+20018,English Literature,11EL1
+20018,Mathematics,11M3
+20018,Combined Science,11CS2
+20018,Spanish,11S2
+20018,Religious Studies,11RS2
+20018,Computer Science,11CS1
+20018,Business,11B3
+20019,English Language,11EL3
+20019,English Literature,11EL3
+20019,Mathematics,11M3
+20019,Combined Science,11CS4
+20019,Art and Design,11AAD1
+20019,Spanish,11S2
+20019,Business,11B3
+20019,Religious Studies,11RS4
+20020,English Language,11EL1
+20020,English Literature,11EL4
+20020,Mathematics,11M3
+20020,Combined Science,11CS2
+20020,Computer Science,11CS3
+20020,Geography,11G4
+20020,Spanish,11S3
+20020,Religious Studies,11RS3
+20021,English Language,11EL3
+20021,English Literature,11EL2
+20021,Mathematics,11M4
+20021,Combined Science,11CS3
+20021,Business,11B3
+20021,Religious Studies,11RS4
+20021,Art and Design,11AAD4
+20021,Computer Science,11CS2
+20022,English Language,11EL4
+20022,English Literature,11EL3
+20022,Mathematics,11M1
+20022,Combined Science,11CS3
+20022,History,11H4
+20022,Computer Science,11CS2
+20022,Religious Studies,11RS3
+20023,English Language,11EL3
+20023,English Literature,11EL3
+20023,Mathematics,11M4
+20023,Combined Science,11CS4
+20023,History,11H1
+20023,Geography,11G3
+20023,Religious Studies,11RS4
+20023,Spanish,11S1
+20024,English Language,11EL4
+20024,English Literature,11EL3
+20024,Mathematics,11M1
+20024,Combined Science,11CS2
+20024,Business,11B1
+20024,Art and Design,11AAD3
+20024,Computer Science,11CS3
+20024,History,11H2
+20025,English Language,11EL4
+20025,English Literature,11EL4
+20025,Mathematics,11M1
+20025,Combined Science,11CS2
+20025,Geography,11G1
+20025,Computer Science,11CS3
+20025,Business,11B3
+20025,Art and Design,11AAD1
+20026,English Language,11EL3
+20026,English Literature,11EL1
+20026,Mathematics,11M2
+20026,Combined Science,11CS1
+20026,Religious Studies,11RS1
+20026,History,11H2
+20026,Art and Design,11AAD3
+20026,Geography,11G2
+20027,English Language,11EL3
+20027,English Literature,11EL1
+20027,Mathematics,11M4
+20027,Combined Science,11CS2
+20027,Art and Design,11AAD1
+20027,History,11H1
+20027,Computer Science,11CS3
+20027,Business,11B4
+20028,English Language,11EL4
+20028,English Literature,11EL3
+20028,Mathematics,11M3
+20028,Combined Science,11CS4
+20028,Spanish,11S4
+20028,History,11H3
+20028,Computer Science,11CS3
+20028,Business,11B1
+20029,English Language,11EL4
+20029,English Literature,11EL3
+20029,Mathematics,11M4
+20029,Combined Science,11CS3
+20029,Business,11B3
+20029,Art and Design,11AAD4
+20029,History,11H3
+20029,Spanish,11S1
+20030,English Language,11EL4
+20030,English Literature,11EL1
+20030,Mathematics,11M3
+20030,Combined Science,11CS3
+20030,Religious Studies,11RS3
+20030,Art and Design,11AAD3
+20030,Spanish,11S1
+20030,Geography,11G2
+20031,English Language,11EL1
+20031,English Literature,11EL2
+20031,Mathematics,11M4
+20031,Combined Science,11CS2
+20031,Religious Studies,11RS4
+20031,Geography,11G2
+20031,Computer Science,11CS2
+20031,Art and Design,11AAD3
+20032,English Language,11EL3
+20032,English Literature,11EL3
+20032,Mathematics,11M2
+20032,Combined Science,11CS2
+20032,Religious Studies,11RS2
+20032,Business,11B2
+20032,Art and Design,11AAD1
+20032,History,11H1
+20033,English Language,11EL3
+20033,English Literature,11EL3
+20033,Mathematics,11M4
+20033,Combined Science,11CS2
+20033,Geography,11G1
+20033,Religious Studies,11RS2
+20033,History,11H2
+20033,Computer Science,11CS4
+20034,English Language,11EL3
+20034,English Literature,11EL2
+20034,Mathematics,11M3
+20034,Combined Science,11CS1
+20034,Business,11B4
+20034,Computer Science,11CS4
+20034,Art and Design,11AAD2
+20034,Spanish,11S2
+20035,English Language,11EL1
+20035,English Literature,11EL1
+20035,Mathematics,11M3
+20035,Combined Science,11CS3
+20035,Computer Science,11CS1
+20035,Spanish,11S2
+20035,Art and Design,11AAD1
+20036,English Language,11EL2
+20036,English Literature,11EL2
+20036,Mathematics,11M4
+20036,Combined Science,11CS3
+20036,Art and Design,11AAD2
+20036,Business,11B4
+20036,Religious Studies,11RS4
+20036,History,11H4
+20037,English Language,11EL4
+20037,English Literature,11EL4
+20037,Mathematics,11M2
+20037,Combined Science,11CS1
+20037,Religious Studies,11RS1
+20037,Geography,11G3
+20037,History,11H2
+20037,Business,11B1
+20038,English Language,11EL4
+20038,English Literature,11EL1
+20038,Mathematics,11M2
+20038,Combined Science,11CS3
+20038,History,11H3
+20038,Religious Studies,11RS4
+20038,Art and Design,11AAD1
+20038,Business,11B4
+20039,English Language,11EL4
+20039,English Literature,11EL2
+20039,Mathematics,11M2
+20039,Combined Science,11CS2
+20039,Computer Science,11CS3
+20039,Art and Design,11AAD4
+20039,Geography,11G4
+20039,Religious Studies,11RS1
+20040,English Language,11EL3
+20040,English Literature,11EL1
+20040,Mathematics,11M4
+20040,Combined Science,11CS1
+20040,Business,11B3
+20040,Religious Studies,11RS3
+20040,Computer Science,11CS1
+20040,Geography,11G1
+20041,English Language,11EL1
+20041,English Literature,11EL4
+20041,Mathematics,11M4
+20041,Combined Science,11CS4
+20041,Computer Science,11CS1
+20041,Spanish,11S3
+20041,Business,11B2
+20041,Art and Design,11AAD1
+20042,English Language,11EL3
+20042,English Literature,11EL1
+20042,Mathematics,11M1
+20042,Combined Science,11CS1
+20042,Spanish,11S2
+20042,Religious Studies,11RS4
+20042,History,11H2
+20043,English Language,11EL4
+20043,English Literature,11EL2
+20043,Mathematics,11M3
+20043,Combined Science,11CS1
+20043,Geography,11G4
+20043,Business,11B2
+20043,Art and Design,11AAD2
+20043,History,11H4
+20044,English Language,11EL4
+20044,English Literature,11EL4
+20044,Mathematics,11M1
+20044,Combined Science,11CS2
+20044,History,11H4
+20044,Spanish,11S4
+20044,Computer Science,11CS2
+20044,Art and Design,11AAD3
+20045,English Language,11EL4
+20045,English Literature,11EL1
+20045,Mathematics,11M2
+20045,Combined Science,11CS1
+20045,History,11H3
+20045,Computer Science,11CS2
+20045,Geography,11G1
+20045,Business,11B2
+20046,English Language,11EL4
+20046,English Literature,11EL4
+20046,Mathematics,11M2
+20046,Combined Science,11CS1
+20046,Art and Design,11AAD3
+20046,Religious Studies,11RS2
+20046,Spanish,11S3
+20046,Computer Science,11CS3
+20047,English Language,11EL2
+20047,English Literature,11EL1
+20047,Mathematics,11M1
+20047,Combined Science,11CS4
+20047,Spanish,11S1
+20047,Geography,11G2
+20047,History,11H4
+20047,Religious Studies,11RS1
+20048,English Language,11EL3
+20048,English Literature,11EL2
+20048,Mathematics,11M3
+20048,Combined Science,11CS1
+20048,Geography,11G4
+20048,Spanish,11S1
+20048,History,11H2
+20048,Business,11B2
+20049,English Language,11EL2
+20049,English Literature,11EL4
+20049,Mathematics,11M1
+20049,Combined Science,11CS1
+20049,Art and Design,11AAD1
+20049,Spanish,11S4
+20049,Computer Science,11CS1
+20049,Geography,11G4
+20050,English Language,11EL2
+20050,English Literature,11EL2
+20050,Mathematics,11M2
+20050,Combined Science,11CS3
+20050,Business,11B4
+20050,Computer Science,11CS3
+20050,History,11H2
+20050,Religious Studies,11RS4
+20051,English Language,11EL2
+20051,English Literature,11EL2
+20051,Mathematics,11M2
+20051,Combined Science,11CS2
+20051,Spanish,11S1
+20051,Religious Studies,11RS2
+20051,Geography,11G1
+20051,Business,11B4
+20052,English Language,11EL3
+20052,English Literature,11EL3
+20052,Mathematics,11M1
+20052,Combined Science,11CS2
+20052,Spanish,11S4
+20052,Business,11B2
+20052,Art and Design,11AAD3
+20052,Computer Science,11CS2
+20053,English Language,11EL1
+20053,English Literature,11EL3
+20053,Mathematics,11M4
+20053,Combined Science,11CS1
+20053,Geography,11G2
+20053,Business,11B4
+20053,Computer Science,11CS2
+20053,Spanish,11S4
+20054,English Language,11EL3
+20054,English Literature,11EL2
+20054,Mathematics,11M3
+20054,Combined Science,11CS4
+20054,Spanish,11S3
+20054,Religious Studies,11RS2
+20054,History,11H4
+20054,Business,11B1
+20055,English Language,11EL2
+20055,English Literature,11EL3
+20055,Mathematics,11M1
+20055,Combined Science,11CS3
+20055,Art and Design,11AAD4
+20055,Computer Science,11CS4
+20055,Spanish,11S3
+20055,Business,11B4
+20056,English Language,11EL3
+20056,English Literature,11EL3
+20056,Mathematics,11M1
+20056,Combined Science,11CS1
+20056,Business,11B2
+20056,Computer Science,11CS2
+20056,Art and Design,11AAD3
+20056,Religious Studies,11RS4
+20057,Religious Studies,10RS2
+20058,Religious Studies,10RS3
+20059,Religious Studies,10RS2
+20060,Religious Studies,10RS1
