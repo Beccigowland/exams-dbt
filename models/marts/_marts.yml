@@ -1,1 +1,30 @@
-x
+version: 2
+
+models:
+  - name: mart_slt_entry_summary
+    description: One row per student for SLT. Replaces the Entry info tab.
+    columns:
+      - name: admission_no
+        data_tests:
+          - unique
+          - not_null
+      - name: subjects_entered
+        description: >
+          Number of subjects with a live entry (status C). Withdrawn entries
+          are not counted. A student entered for both tiers of one subject
+          counts once per entry, so the tier test must pass first.
+      - name: has_extra_time
+        description: True when the student's access arrangement is 25% extra time.
+      - name: maths_tier
+        description: F or H. Blank means no live Maths entry.
+
+  - name: mart_entry_mismatches
+    description: >
+      Class lists checked against entries. Every row is something to fix
+      before the entry deadline. An empty table means the entries are clean.
+    columns:
+      - name: issue
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['In class, not entered', 'Entered, not in class', 'Withdrawn but still in class']
