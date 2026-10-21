@@ -1,0 +1,71 @@
+version: 2
+
+models:
+  - name: stg_students
+    description: One row per student, cleaned from the MIS export.
+    columns:
+      - name: admission_no
+        description: The school's student ID. Used to join every table.
+        data_tests:
+          - unique
+          - not_null
+      - name: candidate_no
+        description: Four-digit exam candidate number.
+        data_tests:
+          - unique
+          - not_null
+      - name: access_arrangement
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['None', '25% extra time', 'Reader', 'Word processor', 'Rest breaks']
+
+  - name: stg_entries
+    description: One row per exam entry. Status C = entered, W = withdrawn.
+    columns:
+      - name: admission_no
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_students')
+                field: admission_no
+              config:
+                severity: warn   # warn, not fail, so the rest still builds
+      - name: entry_code
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_subjects')
+                field: entry_code
+      - name: entry_status
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['C', 'W']
+
+  - name: stg_timetable
+    description: One row per student per class on the timetable.
+    columns:
+      - name: admission_no
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_students')
+                field: admission_no
+
+  - name: stg_subjects
+    description: Lookup of entry codes to subject, awarding body and tier.
+    columns:
+      - name: entry_code
+        data_tests:
+          - unique
+          - not_null
+      - name: tier
+        description: F = Foundation, H = Higher, blank = untiered subject.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['F', 'H']
